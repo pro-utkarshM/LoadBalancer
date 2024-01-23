@@ -1,4 +1,4 @@
-# loadbalancer-in-go
+# loadbalancer
 
 Building a loadbalancer from scratch. DO NOT use this in production :P (just in case)
 
